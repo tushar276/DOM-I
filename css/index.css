@@ -66,6 +66,7 @@ h1, h2, h3, h4, h5 {
 .container {
     width: 880px;
     margin: auto;
+    
 }
 
 /* Header Styles */
@@ -91,11 +92,10 @@ header nav a:hover {
     text-decoration: underline;
     color: black;
 }
-
-header .logo {
-    align-self: flex-end;
-    margin: 28px 0 0 91px;
-}
+    header .logo {
+        align-self: flex-end;
+        margin: 28px 0 0 91px;
+    }
 
 /* Call To Action (CTA) Styles */
 
